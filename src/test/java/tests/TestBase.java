@@ -1,6 +1,4 @@
 package tests;
-
-import com.beust.ah.A;
 import com.codeborne.selenide.Configuration;
 import config.TestConfig;
 import helpers.AuthApi;
